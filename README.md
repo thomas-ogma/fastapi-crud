@@ -1,4 +1,4 @@
-﻿# fastapi-crud
+# fastapi-crud
  
  [Download the Postman File](https://raw.githubusercontent.com/thomas-ogma/fastapi-crud/main/fastAPI%20CRUD.postman_collection.json)
 
