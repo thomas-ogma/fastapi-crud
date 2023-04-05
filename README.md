@@ -2,7 +2,7 @@
  
  [Download the Postman File](https://raw.githubusercontent.com/thomas-ogma/fastapi-crud/main/fastAPI%20CRUD.postman_collection.json)
 
-![FastAPI CRUD tested on Postman](https://raw.githubusercontent.com/thomas-ogma/fastapi-crud/main/ss.png)
+![FastAPI CRUD tested on Postman](./ss.png)
 
 ## How to run?
 
